@@ -3,21 +3,10 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![Machine Learning](https://img.shields.io/badge/ML-Linear%20Regression-orange.svg)](https://scikit-learn.org/)
 [![Library](https://img.shields.io/badge/Libraries-Pandas%20%7C%20Seaborn%20%7C%20Scikit--Learn-green.svg)]()
-[![Git Tags](https://img.shields.io/badge/Version-v1.0.0-blue)](https://git-scm.com/)
 
 An end-to-end Machine Learning project to predict the number of Olympic medals a country will win in future Olympics based on historically relevant features: **team size (number of competing athletes)** and **historical performance (medals won in the previous Olympics)**.
 
 This repository contains a full Jupyter Notebook pipeline, structured dataset preprocessing, evaluation metrics, and comparative analyses between predicted and actual medal tallies for multiple countries.
-
----
-
-## Repository Metadata & Tags
-
-*   **Project Description:** A predictive model using Linear Regression to estimate Olympic medal counts based on team size and previous medal achievements.
-*   **Git Description:** Olympic Medals Prediction Model using Scikit-Learn Linear Regression.
-*   **GitHub/Git Tags:** `machine-learning`, `linear-regression`, `scikit-learn`, `python`, `data-science`, `predictive-modeling`, `olympics-data`, `data-visualization`
-
----
 
 ## Repository Structure
 
